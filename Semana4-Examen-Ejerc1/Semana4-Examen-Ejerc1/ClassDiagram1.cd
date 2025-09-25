@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Semana4_Examen_Ejerc1.CollectionStructure">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CollectionStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.DefenseStructure">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefenseStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.EnemyAI">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAAgQAQAAAAAA=</HashCode>
+      <FileName>EnemyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.GameEntity">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAEAAAAAAAAAUAAAAAAAAgCAABAg=</HashCode>
+      <FileName>GameEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.GameManager">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIACAAAAAAIAAACAgACAMAgIAAkQBABQAEEAAAgAFA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.GameNode">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAAAAAIQAAAAABAIAAAACCAQAgAIBAAAAAAAA=</HashCode>
+      <FileName>GameNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Helicopter">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helicopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.MaintenanceStructure">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MaintenanceStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Player">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAgCAAAABIAACAQAQAyAAAAABEAAAAAEAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Program">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Soldier">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Structure">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Tank">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Semana4_Examen_Ejerc1.Unit">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAIEAAAAAAAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
