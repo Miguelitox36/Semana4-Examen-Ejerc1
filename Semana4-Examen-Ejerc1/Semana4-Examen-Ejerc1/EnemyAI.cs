@@ -18,7 +18,7 @@ namespace Semana4_Examen_Ejerc1
             random = new Random();
             turnCount = 0;
             fibonacciSequence = new List<int> { 0, 1 };
-            fibonacciIndex = 0;
+            fibonacciIndex = 1;
         }
 
         public List<Unit> CreateEnemyUnits(List<Unit> existingEnemyUnits)
