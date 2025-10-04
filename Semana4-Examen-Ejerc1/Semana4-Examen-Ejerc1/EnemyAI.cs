@@ -52,8 +52,8 @@ namespace Semana4_Examen_Ejerc1
 
         private Unit CreateRandomUnit()
         {
-            double soldierProbability = turnCount <= 10 ? 0.5 : 0.33;
-            double tankProbability = turnCount <= 10 ? 0.35 : 0.33;           
+            double soldierProbability = turnCount <= 5 ? 0.5 : 0.33;
+            double tankProbability = turnCount <= 5 ? 0.35 : 0.33;           
 
             double roll = random.NextDouble();
 
